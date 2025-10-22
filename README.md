@@ -1,42 +1,5 @@
-Gemini
-Roteiro: Criando VM no Azure
-Análise do Projeto Classcheck
-Jogar Bloodborne no PC
-Análise de Portfólio Web 7Devs
-Estratégias de Marketing para Software House
-Análise do Código do Projeto Classcheck
-Horário de Pico e Receio
-Conversão de Reais para Moedas Estrangeiras
-Análise do Código Classcheck
-Histórico de OS com Mais Detalhes
-Melhoria Histórico de Ordens de Serviço
-Correção Dashboard Funcionários: Submenu e Drill Down
-Electron, SVG e API Rust
-Dashboard Funcionários: Correção Drill Down
-Guia Dual Boot Manjaro com Windows
-Erro GD na geração de QR Code
-Análise de Projeto PHP ClassCheck
-Correção Cadastro OS Funcionários
-Nmap Básico e Ferramentas Complementares
-Dashboard de Funcionários: Histórico OS
-Refatoração de Código para ID de Usuário
-Enmap: Mapa JavaScript Persistente
-Hora Atual em Itaquaquecetuba
-Correção de Fuso Horário em Datas PHP
-Instalar Rider no Manjaro: Guia para Iniciantes
-Azure: Zonas de Disponibilidade Explicadas
-Subindo Ambientes com Docker Compose
-LinkedIn para Grupo de Desenvolvedores
-Aprimorando o Dash Sombrio
-Erro Pacote Corrompido no Pacman
-Vulnerabilidades e Segurança no Arch Linux
-Análise de Código PHP Classcheck
-O Que é a Colmeia?
-Linux: Crescimento e Domínio Tecnológico
-Conversa com o Gemini
-me faça u, roteiro de criando uma maquina vitual na azure e descrevendo em primeira pessoa faça isso em .md
 
-Markdown
+
 # Meu Roteiro: Criando uma Máquina Virtual (VM) no Azure
 
 Hoje eu vou criar uma nova máquina virtual do zero no portal do Azure. Este é o meu guia pessoal, passo a passo, de como eu faço isso.
