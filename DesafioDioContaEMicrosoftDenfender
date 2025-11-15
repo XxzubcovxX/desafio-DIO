@@ -1,0 +1,6 @@
+No Topico de "Entendendo sobre segurança e indentidade"
+
+Eu entendido os conceito SSO para usuarios e senhas unicos e a autenticação B2B e B2C.
+A diferença de autentificação e autorização sendo que com a autenticação vc pode acessar e autorização oque você pode fazer no sistema
+A criação de usuarios dentro do ambiente da Azure e suas regras e permissões que podem fazer em realção a outras contas.
+e sobre o microsoft defender que seria o nosso sentinela, que conseguimos monitorar nosso gerenciamento de segurança, tanto da Azure como da AWS e GCP
