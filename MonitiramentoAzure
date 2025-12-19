@@ -1,0 +1,5 @@
+Azure Monitor é a solução central que recolhe, analisa e atua sobre a telemetria (métricas e registos) de todos os seus recursos na nuvem e ambientes locais.
+
+Application Insights atua como o serviço de gestão de desempenho de aplicações (APM), monitorizando o código em tempo real para detetar falhas, anomalias e analisar o comportamento do utilizador.
+
+Log Analytics é a ferramenta onde escreve consultas (usando a linguagem KQL) para aprofundar a análise dos dados e registos recolhidos pelo Azure Monitor.
