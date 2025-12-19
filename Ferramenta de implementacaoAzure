@@ -1,0 +1,5 @@
+O Azure Resource Manager (ARM) atua como a camada base de gerenciamento e orquestração, recebendo as solicitações para criar, atualizar e organizar todos os recursos da nuvem.
+
+O Bicep funciona como uma linguagem de abstração transparente sobre o ARM, simplificando a Infraestrutura como Código (IaC) com uma sintaxe mais limpa e declarativa que os templates JSON tradicionais.
+
+O Azure Arc estende esse plano de controle do ARM para fora da nuvem da Microsoft, permitindo governar e gerenciar servidores locais (on-premise) ou de outras nuvens (AWS/GCP) como se fossem recursos nativos do Azure.
